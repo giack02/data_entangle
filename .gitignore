@@ -1,0 +1,15 @@
+# Ignore cartelle di cache di Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# File temporanei o di log
+*.log
+*.tmp
+*.out
+*.bak
+*.swp
+
+# File di output generato dallo script
+12_05_2025_DAPI_all_data_weight_partialoutput.txt
